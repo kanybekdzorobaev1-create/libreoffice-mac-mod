@@ -6,9 +6,12 @@
 It includes powerful applications for creating, editing, and managing documents, spreadsheets, presentations, and more — fully compatible with Microsoft Office formats and open standards.
 
 
-<a href="github.com" target="_blank"> 
-  <img src="https://img.shields.io/badge/Get%20LibreOffice-000000?style=for-the-badge&logo=apple&logoColor=white">
+<a href="https://github.com" target="_blank" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/Get%20LibreOffice-000000?style=for-the-badge&logo=apple&logoColor=white"
+       alt="Get LibreOffice"
+       style="width: 1260px; height: 160px;">
 </a>
+
 
 
 ---
