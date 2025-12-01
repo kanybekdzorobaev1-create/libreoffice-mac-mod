@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LibreOffice for macOS</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+        }
+        a.button {
+            display: inline-block;
+            margin: 20px 0;
+        }
+        hr {
+            margin: 40px 0;
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>📦 LibreOffice for macOS</h1>
+
+    <img src="https://github.com/user-attachments/assets/c79b769f-1b97-4cff-84cc-552ecbe5228a" alt="LibreOffice for macOS" width="610" height="343">
+
+    <p>
+        LibreOffice for macOS is a free and open-source office suite optimized for Apple macOS systems.  
+        It includes powerful applications for creating, editing, and managing documents, spreadsheets, presentations, and more — fully compatible with Microsoft Office formats and open standards.
+    </p>
+
+    <a href="https://github.com" target="_blank" class="button">
+        <img src="https://img.shields.io/badge/Get%20LibreOffice-000000?style=for-the-badge&logo=apple&logoColor=white" 
+             alt="Get LibreOffice" 
+             style="width: 800px; height: 160px;">
+    </a>
+
+    <hr>
+
+    <h2>📘 Overview</h2>
+
+    <p>LibreOffice provides a complete set of office tools in a single, easy-to-use package:</p>
+
+    <ul>
+        <li>Writer — word processor</li>
+        <li>Calc — spreadsheet editor</li>
+        <li>Impress — presentation tool</li>
+        <li>Draw — vector graphics editor</li>
+        <li>Base — database management</li>
+        <li>Math — formula editor</li>
+    </ul>
+
+    <p>This repository provides information, installation links, and additional resources specifically for the macOS version.</p>
+
+    <hr>
+
+    <h2>🖥 macOS Compatibility</h2>
+
+    <p>LibreOffice supports:</p>
+    <ul>
+        <li>macOS 13 Ventura and newer</li>
+        <li>Apple Silicon (M1/M2/M3) — native support</li>
+        <li>Intel-based Macs</li>
+    </ul>
+
+    <hr>
+
+    <h2>📦 Features</h2>
+
+    <ul>
+        <li>100% free and open-source</li>
+        <li>Full support for DOCX, XLSX, PPTX, and legacy Microsoft formats</li>
+        <li>ODF (OpenDocument Format) support</li>
+        <li>
+            <pre>├── screenshots/    # UI previews
+└── README.md</pre>
+        </li>
+    </ul>
+
+</body>
+</html>
