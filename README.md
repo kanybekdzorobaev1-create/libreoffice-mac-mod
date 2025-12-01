@@ -9,7 +9,7 @@ It includes powerful applications for creating, editing, and managing documents,
 <a href="https://github.com" target="_blank" style="display:inline-block;">
   <img src="https://img.shields.io/badge/Get%20LibreOffice-000000?style=for-the-badge&logo=apple&logoColor=white"
        alt="Get LibreOffice"
-       style="width: 1260px; height: 160px;">
+       style="width: 800; height: 160px;">
 </a>
 
 
